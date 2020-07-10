@@ -1,0 +1,33 @@
+.button{
+    width:15rem ;
+    color:#fff;
+    background-color: hsl(12, 88%, 59%);
+    border-radius: 4rem;
+    padding: 1rem;
+    border: none;
+    
+    
+    }
+    .button:hover{
+        opacity: 0.8;
+        cursor: pointer;
+    }
+
+     p{
+        padding-bottom: 3rem;
+        font-size: 1.3rem;
+        opacity: 0.6;
+    }
+
+    .btn2{
+        width: 7rem;
+        color: #fff;
+        background-color: hsl(12, 88%, 59%) ;
+        padding: 1rem;
+        border-radius: 4rem;
+        border: none;
+    }
+
+
+
+    

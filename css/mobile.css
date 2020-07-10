@@ -1,0 +1,19 @@
+@media(max-width:500px){
+    .container{
+        
+    }
+
+
+.navbar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section1{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+}
